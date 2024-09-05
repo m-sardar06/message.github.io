@@ -33,14 +33,10 @@
 </head>
 <body>
     <div class="card">
-        <p>Hi Addi !! i told you i was making something but little do you know this is for you my love <3 
-            for all those times you have been with me, the good, the bad, the happy, the sad, and all the moments yet to come. 
-            ive made this specially for you for the time you feel low and think i am not there with you... 
-            chanda im always with you, and this will always remain here!! this is not much but just the beginning of all the little things
-            i like? infact love to do for you! i want you to know that i am always so proud of you! and that i always miss you
-            no matter how much time we have togather.... until we have forever. InshaAllah that is!! here are still flowers for you because they wont 
-            ever wilt hehe 
-            i love you so very much Ahad, to infinity and beyond 
+        <p> hi habibi <3 i miss you so much :( tum itna pyaara lag raha hai mujhe abhi mei kya bataon. liken sath yaad bhi bohat aarhai hai. 
+            ganday ho tum pata hai tumnay? liken jaan ho meri puri ki puri ^-^ my baby boo and my baby bear wo bhi humesha k liya hehe 
+            anyhow i wanted to tell you that i love you so very much and im so proud of you!! 
+            and we're going on a date very soon :)<3 
             with lots of love, cuddles and kisses 
             mehr bano sardar 
             & your begum </p>
