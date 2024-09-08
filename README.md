@@ -34,7 +34,7 @@
 <body>
     <div class="card">
         <p> hi habibi <3 you are my world, my hero, my addi 
-            with lots of love, cuddles and kisses, heartpulse, kissing_closed_eyes
+            with lots of love, cuddles and kisses, 😚💗
         your begum </p>
         <img src="bouquet.jpg" alt="Bouquet of Flowers">
     </div>
