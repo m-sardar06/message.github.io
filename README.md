@@ -33,10 +33,14 @@
 </head>
 <body>
     <div class="card">
-        <p> hi habibi <3 you are my world, my hero, my addi 
-            with lots of love, cuddles and kisses, 😚💗
+        <p> hi ahad. i just wanted to thank you for taking care of us so well. i could've done it myself but never as better as you did.
+            isay sahi mei pata chalta hai k you are my shohr and i'm your begum. i can't live without you & i never get tired of you. 💕
+            its a long journey ahead & will indeed be a beautiful one. not because of the things we have, but because of the things we can do. together! 💪
+            mujhe thora sa bura lagta raha hai k ap kaam sab chor k mere pass aajatay hain and i dont let you go 😭 but then my conclusion was k time mila hai, we should make 
+            the best of it. the more the memories the better. begum houn sab maaf hai hehe 😇🥰 i want you to know that i am here and i'm staying here. you dont ever need to worry my sweet boy, i love you so very much. 
+            with lots of love & prayers for you
+            mehr bano sardar &
         your begum </p>
-        <img src="bouquet.jpg" alt="Bouquet of Flowers">
     </div>
 </body>
 </html>
